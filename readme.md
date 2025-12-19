@@ -6,7 +6,7 @@ A study notebook that follows a customer dataset from its first inspection to a 
 
 Open `tratamento_dados.ipynb`. It contains the checks for missing values, dates, duplicates and outliers, followed by preprocessing and derived date columns.
 
-The input file is `data/dados_clientes.csv`. The last cell writes `data/dados_clientes_preprocessados.csv`; review the preceding outputs and cell order before relying on that export.
+The input file is `data/dados_clientes.csv`. Data is not included; put the file in `data/`. The last cell writes `data/dados_clientes_preprocessados.csv`; review the preceding outputs and cell order before relying on that export.
 
 ## Run locally
 
